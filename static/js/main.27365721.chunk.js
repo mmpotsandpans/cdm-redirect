@@ -1,0 +1,2 @@
+(this.webpackJsonpcdm=this.webpackJsonpcdm||[]).push([[0],[function(n,t,e){},function(n,t,e){"use strict";e.r(t);e(0);var o=function(n){n&&n instanceof Function&&e.e(2).then(e.bind(null,2)).then((function(t){var e=t.getCLS,o=t.getFID,c=t.getFCP,i=t.getLCP,s=t.getTTFB;e(n),o(n),c(n),i(n),s(n)}))};window.location.href="https://www.heroesofmyanmar.com",o()}],[[1,1]]]);
+//# sourceMappingURL=main.27365721.chunk.js.map
